@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+}
+p{
+  margin: 0 0 20px 0;
+  font-weight: lighter;
+}
+#header img{
+  width: 280px;
+  display: block;
+  padding: 20px;
+}
+#header{
+  background: #f4cad3;
+}
+#nav {
+  background: #7cfc00;
+  width: 250px;
+  height: 250px;
+  float: left;
+}
+
+#content {
+  margin-left: 250px;
+  background: #75ffe8;
+  padding: 20px;
+}
+
+#footer{
+  padding: 20px;
+  background: #ff3399;
+  text-align: center;
+  margin: 0;
+}
+.box {
+  width: 33.333%;
+  float: left;
+  background: #0000cd;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  padding: 20px;
+}

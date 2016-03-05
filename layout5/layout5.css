@@ -1,0 +1,33 @@
+#background{
+  background-color: #317060;
+  height: 1000px;
+  width: 100%;
+}
+#content{
+  height: 700px;
+  max-width: 700px;
+  padding: 10px;
+}
+#topblock{
+  width: 180px;
+  height: 30px;
+  float:left;
+  margin: 4px 4px 0 4px;
+  padding-bottom: 70px;
+  background:#c6dcd3;
+}
+#bottomblock{
+  width: 180px;
+  height: 20px;
+  float:left;
+  margin: 0 4px 4px 4px;
+  padding-bottom: 70px;
+  background:#90c0b2;
+  color: white;
+}
+h3{
+  color: white;
+}
+h2{
+  color: white;
+}
